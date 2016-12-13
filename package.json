@@ -1,8 +1,11 @@
 {
+  "name": "coffee-button",
+  "main": "index.js",
   "devDependencies": {
     "standard": "^8.6.0"
   },
   "scripts": {
+    "start": "node .",
     "lint": "standard index.js"
   }
 }
