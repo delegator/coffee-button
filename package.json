@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "scripts": {
+    "lint": "standard index.js"
+  }
+}
