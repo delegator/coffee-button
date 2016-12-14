@@ -48,3 +48,9 @@ $ yarn install
 # Lint
 $ yarn run lint
 ```
+
+# License
+
+[Apache 2.0][license]
+
+[license]: LICENSE
