@@ -21,7 +21,7 @@ function hookshot (webhookUrl, slackMessage) {
   }
 
   var req = https.request(options, (res) => {
-    console.log("\n===")
+    console.log('\n===')
     console.log('Status: ', res.statusCode)
     console.log('Headers: ', res.headers)
     res.setEncoding('utf8')
