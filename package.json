@@ -1,6 +1,7 @@
 {
   "name": "coffee-button",
   "main": "index.js",
+  "license": "Apache-2.0",
   "devDependencies": {
     "standard": "^8.6.0"
   },
